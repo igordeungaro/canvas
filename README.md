@@ -15,3 +15,12 @@ Please read the [contributing guide](/CONTRIBUTING.md).
 ## License
 
 Licensed under the [MIT license](./LICENSE.md).
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [shadcn-ui/ui](https://github.com/shadcn-ui/ui), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: MIT License (mantida sem alterações).
+
+**Fonte original:** https://github.com/shadcn-ui/ui
